@@ -148,9 +148,9 @@
   },
   {
     "id": "edeff752fe55f2581f6ceee82c66aac8b8a8622d",
-    "name": "Digdir",
+    "name": "ETI",
     "selectedTokenSets": {
-      "Brand/Digdir": "enabled",
+      "Brand/ETI": "enabled",
       "Base/Semantic": "enabled",
       "Base/Core": "source"
     },
