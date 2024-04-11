@@ -63,22 +63,22 @@
         "description": "AAA 10 on grey 800\nAA 5.4 as bkdg for interaction blue"
       },
       "400": {
-        "value": "#9AFEDE",
+        "value": "#9bf1d6",
         "type": "color",
         "description": "AAA 9.2 on grey 800\nAA 4.6 as bkdg for interaction blue"
       },
       "500": {
-        "value": "#57F8D0",
+        "value": "#56e3c0",
         "type": "color",
         "description": "AAA 7.9 on grey 800\nAA18 4 as bkdg for interaction blue"
       },
       "600": {
-        "value": "##E5AA20",
+        "value": "#50c6a4",
         "type": "color",
         "description": "AA 6.8 on grey 800\nAA18 3.4 as bkdg for interaction blue"
       },
       "700": {
-        "value": "#00E1BB",
+        "value": "#03b598",
         "type": "color",
         "description": "AA 5.5 on grey 800"
       },
