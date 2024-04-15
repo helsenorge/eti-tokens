@@ -1,0 +1,33 @@
+name: Release
+
+on:
+  push:
+    paths:
+      - 'design-tokens/**'
+
+jobs:
+  build-css:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Use Node v20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+        working-directory: packages/cli
+
+      - run: npm run build
+        working-directory: packages/cli
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: build css'
+          file_pattern: 'apps/storefront/tokens packages/theme/brand/eti'
