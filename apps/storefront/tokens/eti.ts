@@ -5,13 +5,13 @@
 
 export const color = [
   {
-    value: '#F3F2FA',
+    value: '#F3F2FB',
     type: 'color',
     description: 'AAA 12.8 on grey 800\nAA 6.4 as bkdg for interaction blue',
     filePath: '../../design-tokens/Brand/ETI.json',
     isSource: false,
     original: {
-      value: '#F3F2FA',
+      value: '#F3F2FB',
       type: 'color',
       description: 'AAA 12.8 on grey 800\nAA 6.4 as bkdg for interaction blue',
     },
