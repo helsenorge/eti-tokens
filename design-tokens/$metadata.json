@@ -3,7 +3,7 @@
     "Base/Core",
     "Base/Semantic",
     "Base/Fluid",
-    "Brand/ETI",
+    "Brand/ETI-Token-studio",
     "Brand/Tilsynet",
     "Brand/Altinn",
     "Brand/Brreg",
@@ -14,6 +14,10 @@
     "Viewport/@992",
     "Viewport/@1200",
     "Viewport/@1440",
-    "Figma/components"
+    "Figma/components",
+    "ETI -test fra skratch/Default",
+    "Alias/default",
+    "Mapped/light",
+    "Mapped/Dark"
   ]
 }

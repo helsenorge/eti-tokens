@@ -1,0 +1,24 @@
+{
+  "Theme": {
+    "Primary": {
+      "value": "{Color.purple-Neutral}",
+      "type": "color"
+    },
+    "Primary-light": {
+      "value": "{Color.Purple-ligth}",
+      "type": "color"
+    },
+    "Primary-lighter": {
+      "value": "{Color.Purple-lighter}",
+      "type": "color"
+    },
+    "Primary-dark": {
+      "value": "{Color.Purple-Dark}",
+      "type": "color"
+    },
+    "Primary-darker": {
+      "value": "{Color.Purple-darker}",
+      "type": "color"
+    }
+  }
+}

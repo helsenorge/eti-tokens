@@ -198,72 +198,86 @@
       "action": {
         "first": {
           "subtle": {
-            "value": "{colors.blue.100}",
-            "type": "color"
+            "value": "{brand.alt3.200}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp, inaktive"
           },
           "subtle-hover": {
-            "value": "{colors.blue.200}",
-            "type": "color"
+            "value": "{brand.alt1.200}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp, inaktive, hover"
           },
           "default": {
-            "value": "{colors.blue.700}",
-            "type": "color"
+            "value": "{brand.alt1.500}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface generelt"
           },
           "hover": {
-            "value": "{colors.blue.800}",
-            "type": "color"
+            "value": "{brand.alt1.600}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp,hover"
           },
           "active": {
-            "value": "{colors.blue.900}",
+            "value": "{brand.alt1.400}",
             "type": "color",
-            "description": "Standard farge for handlinger"
+            "description": "Primær bakgrunn på surface knapp, aktiv"
           },
           "no_fill": {
-            "value": "{colors.white}",
-            "type": "color"
+            "value": "{brand.alt1.100}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp, ikke fyllt"
           },
           "no_fill-hover": {
-            "value": "{colors.blue.100}",
-            "type": "color"
+            "value": "{brand.alt1.200}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp, ikke fylt, hover"
           },
           "no_fill-active": {
-            "value": "{colors.blue.200}",
-            "type": "color"
+            "value": "{brand.alt1.300}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp, ikke fylt, aktiv"
           }
         },
         "second": {
           "subtle": {
-            "value": "{colors.grey.100}",
-            "type": "color"
+            "value": "{semantic.surface.third.light}",
+            "type": "color",
+            "description": "Sekundær bakgrunn på surface knapp, inaktive"
           },
           "subtle-hover": {
-            "value": "{colors.grey.200}",
-            "type": "color"
+            "value": "{brand.alt2.500}",
+            "type": "color",
+            "description": "Sekundær bakgrunn på surface knapp, inaktive, hover"
           },
           "default": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "{brand.alt2.600}",
+            "type": "color",
+            "description": "Sekundær bakgrunn på surface knapp, default"
           },
           "hover": {
-            "value": "rgba({colors.blue.900}, 0.9)",
-            "type": "color"
+            "value": "{brand.alt2.900}",
+            "type": "color",
+            "description": "Sekundær bakgrunn på surface knapp, inaktive, hover"
           },
           "active": {
-            "value": "rgba({colors.blue.900}, 0.8)",
+            "value": "{brand.alt2.800}",
             "type": "color",
-            "description": "Standard farge for handlinger"
+            "description": "Sekundær Standard farge for handlinger, active"
           },
           "no_fill": {
-            "value": "{colors.white}",
-            "type": "color"
+            "value": "{brand.alt2.100}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp, ikke fyllt"
           },
           "no_fill-hover": {
-            "value": "rgba({colors.blue.900}, 0.1)",
-            "type": "color"
+            "value": "{brand.alt2.300}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp, ikke fylt, hover"
           },
           "no_fill-active": {
-            "value": "rgba({colors.blue.900}, 0.2)",
-            "type": "color"
+            "value": "{brand.alt2.400}",
+            "type": "color",
+            "description": "Primær bakgrunn på surface knapp, ikke fylt, aktiv"
           }
         }
       }
@@ -271,15 +285,15 @@
     "border": {
       "first": {
         "default": {
-          "value": "{brand.alt1.600}",
+          "value": "{brand.alt1.400}",
           "type": "color"
         },
         "hover": {
-          "value": "{brand.alt1.700}",
+          "value": "{brand.alt1.500}",
           "type": "color"
         },
         "active": {
-          "value": "{brand.alt1.800}",
+          "value": "{brand.alt1.600}",
           "type": "color"
         }
       },
@@ -314,45 +328,50 @@
       "action": {
         "first": {
           "subtle": {
-            "value": "{colors.blue.200}",
-            "type": "color"
+            "value": "{brand.alt3.300}",
+            "type": "color",
+            "description": "Border action inactive(subtle)"
           },
           "subtle-hover": {
-            "value": "{colors.blue.400}",
-            "type": "color"
+            "value": "{brand.alt1.300}",
+            "type": "color",
+            "description": "Border action inactive(subtle) hover"
           },
           "default": {
-            "value": "{colors.blue.700}",
-            "type": "color"
+            "value": "{brand.alt1.400}",
+            "type": "color",
+            "description": "Border action inactive(subtle) Default"
           },
           "hover": {
-            "value": "{colors.blue.800}",
-            "type": "color"
+            "value": "{brand.alt1.300}",
+            "type": "color",
+            "description": "Border action inactive(subtle) hover"
           },
           "active": {
-            "value": "{colors.blue.900}",
-            "type": "color"
+            "value": "{brand.alt1.400}",
+            "type": "color",
+            "description": "Border action inactive(subtle) hover"
           }
         },
         "second": {
           "subtle": {
-            "value": "{colors.grey.200}",
+            "value": "{brand.alt3.300}",
             "type": "color"
           },
           "subtle-hover": {
-            "value": "{colors.grey.300}",
+            "value": "{semantic.surface.action.second.default}",
             "type": "color"
           },
           "default": {
-            "value": "{colors.blue.900}",
+            "value": "{semantic.border.second.active}",
             "type": "color"
           },
           "hover": {
-            "value": "{colors.blue.900}",
+            "value": "{brand.alt2.400}",
             "type": "color"
           },
           "active": {
-            "value": "{colors.blue.900}",
+            "value": "{semantic.border.second.hover}",
             "type": "color"
           }
         }
@@ -362,37 +381,37 @@
       "action": {
         "first": {
           "default": {
-            "value": "{colors.blue.700}",
+            "value": "{brand.alt1.100}",
             "type": "color"
           },
           "hover": {
-            "value": "#004e95",
+            "value": "{brand.alt1.200}",
             "type": "color"
           },
           "active": {
-            "value": "#00315d",
+            "value": "{brand.alt1.100}",
             "type": "color"
           },
           "on_action": {
-            "value": "{colors.white}",
+            "value": "{brand.alt1.100}",
             "type": "color"
           }
         },
         "second": {
           "default": {
-            "value": "{colors.blue.900}",
+            "value": "{brand.alt3.700}",
             "type": "color"
           },
           "hover": {
-            "value": "{colors.blue.900}",
+            "value": "{brand.alt1.500}",
             "type": "color"
           },
           "active": {
-            "value": "{colors.blue.900}",
+            "value": "{brand.alt3.700}",
             "type": "color"
           },
           "on_action": {
-            "value": "{colors.white}",
+            "value": "{brand.alt3.700}",
             "type": "color"
           }
         }
