@@ -557,6 +557,15 @@
         },
         "type": "typography"
       },
+      "footerxsmall": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.regular}",
+          "lineHeight": "{lineHeights.600}",
+          "fontSize": "{font-size.f-3}"
+        },
+        "type": "typography"
+      },
       "short": {
         "large": {
           "value": {
@@ -993,5 +1002,17 @@
       "value": "{shadow.500}",
       "type": "boxShadow"
     }
+  },
+  "Semibold": {
+    "value": "{fontWeights.semibold}",
+    "type": "fontWeights"
+  },
+  "Regular": {
+    "value": "{fontWeights.regular}",
+    "type": "fontWeights"
+  },
+  "Medium": {
+    "value": "{fontWeights.medium}",
+    "type": "fontWeights"
   }
 }

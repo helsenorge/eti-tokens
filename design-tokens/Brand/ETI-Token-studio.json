@@ -94,12 +94,12 @@
     },
     "alt3greyscale": {
       "100": {
-        "value": "#F9F9F8",
+        "value": "#fcfcfc",
         "type": "color",
         "description": "AAA 12.9 on grey 800\nAA 6.5 as bkdg for interaction blue"
       },
       "200": {
-        "value": "#DCDCD8",
+        "value": "#dfdfdd",
         "type": "color",
         "description": "Light information color \nAAA 11.5 on grey 800\nAA 5.8 as bkdg for interaction blue"
       },
@@ -288,12 +288,12 @@
           "value": "{brand.alt1-primarycolor.400}",
           "type": "color"
         },
-        "hover": {
-          "value": "{brand.alt1-primarycolor.500}",
-          "type": "color"
-        },
         "active": {
           "value": "{brand.alt1-primarycolor.600}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brand.alt1-primarycolor.500}",
           "type": "color"
         }
       },
@@ -422,5 +422,18 @@
     "value": "V 200px horisontal",
     "type": "spacing",
     "description": "D 200px horisontal"
+  },
+  "typography": {
+    "paragraph": {
+      "footerxsmall": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.regular}",
+          "lineHeight": "{lineHeights.600}",
+          "fontSize": "{font-size.f-3}"
+        },
+        "type": "typography"
+      }
+    }
   }
 }
