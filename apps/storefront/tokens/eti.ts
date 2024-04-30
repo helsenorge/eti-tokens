@@ -1449,6 +1449,24 @@ export const typography = [
     path: ['typography', 'paragraph', 'xsmall'],
   },
   {
+    value: "400 0.75rem/1.6 'Inter'",
+    type: 'typography',
+    filePath: '../../design-tokens/Base/Semantic.json',
+    isSource: false,
+    original: {
+      value: {
+        fontFamily: '{fontFamilies.inter}',
+        fontWeight: '{fontWeights.regular}',
+        lineHeight: '{lineHeights.600}',
+        fontSize: '{font-size.f-3}',
+      },
+      type: 'typography',
+    },
+    name: '--fds-typography-paragraph-footerxsmall',
+    attributes: {},
+    path: ['typography', 'paragraph', 'footerxsmall'],
+  },
+  {
     value: "400 1.3125rem/1.3 'Inter'",
     type: 'typography',
     filePath: '../../design-tokens/Base/Semantic.json',
@@ -2565,5 +2583,47 @@ export const boxShadow = [
     name: '--fds-shadow-xlarge',
     attributes: {},
     path: ['shadow', 'xlarge'],
+  },
+];
+
+export const fontWeights = [
+  {
+    value: '600',
+    type: 'fontWeights',
+    filePath: '../../design-tokens/Base/Semantic.json',
+    isSource: false,
+    original: {
+      value: '{fontWeights.semibold}',
+      type: 'fontWeights',
+    },
+    name: '--fds-semibold',
+    attributes: {},
+    path: ['Semibold'],
+  },
+  {
+    value: '400',
+    type: 'fontWeights',
+    filePath: '../../design-tokens/Base/Semantic.json',
+    isSource: false,
+    original: {
+      value: '{fontWeights.regular}',
+      type: 'fontWeights',
+    },
+    name: '--fds-regular',
+    attributes: {},
+    path: ['Regular'],
+  },
+  {
+    value: '500',
+    type: 'fontWeights',
+    filePath: '../../design-tokens/Base/Semantic.json',
+    isSource: false,
+    original: {
+      value: '{fontWeights.medium}',
+      type: 'fontWeights',
+    },
+    name: '--fds-medium',
+    attributes: {},
+    path: ['Medium'],
   },
 ];

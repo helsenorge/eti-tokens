@@ -145,6 +145,7 @@
   --fds-typography-paragraph-medium: 400 1.125rem/1.5 'Inter';
   --fds-typography-paragraph-small: 400 1rem/1.5 'Inter';
   --fds-typography-paragraph-xsmall: 400 0.875rem/1.5 'Inter';
+  --fds-typography-paragraph-footerxsmall: 400 0.75rem/1.6 'Inter';
   --fds-typography-paragraph-short-large: 400 1.3125rem/1.3 'Inter';
   --fds-typography-paragraph-short-medium: 400 1.125rem/1.3 'Inter';
   --fds-typography-paragraph-short-small: 400 1rem/1.3 'Inter';
@@ -224,4 +225,7 @@
   --fds-shadow-medium: 0 0 1px 0 rgba(0,0,0,0.14), 0 2px 4px 0 rgba(0,0,0,0.12), 0 4px 8px 0 rgba(0,0,0,0.12);
   --fds-shadow-large: 0 0 1px 0 rgba(0,0,0,0.13), 0 3px 5px 0 rgba(0,0,0,0.13), 0 6px 12px 0 rgba(0,0,0,0.14);
   --fds-shadow-xlarge: 0 0 1px 0 rgba(0,0,0,0.12), 0 4px 8px 0 rgba(0,0,0,0.16), 0 12px 24px 0 rgba(0,0,0,0.16);
+  --fds-semibold: 600;
+  --fds-regular: 400;
+  --fds-medium: 500;
 }
