@@ -5,9 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Base/Core": "source",
-      "Base/Semantic": "enabled",
-      "ETI/Default": "disabled",
-      "Brand/ETI": "disabled"
+      "Base/Semantic": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1944:527747",
     "$figmaModeId": "1944:0",
@@ -164,7 +162,6 @@
     "selectedTokenSets": {
       "Base/Semantic": "enabled",
       "Base/Core": "source",
-      "ETI/Default": "disabled",
       "Brand/ETI": "enabled"
     },
     "$figmaStyleReferences": {
@@ -650,9 +647,7 @@
     "selectedTokenSets": {
       "Brand/Altinn": "enabled",
       "Base/Core": "source",
-      "Base/Semantic": "enabled",
-      "ETI/Default": "disabled",
-      "Brand/ETI": "disabled"
+      "Base/Semantic": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1326:17328",
     "$figmaModeId": "6324:2",
@@ -891,9 +886,7 @@
     "selectedTokenSets": {
       "Brand/Tilsynet": "enabled",
       "Base/Core": "source",
-      "Base/Semantic": "enabled",
-      "ETI/Default": "disabled",
-      "Brand/ETI": "disabled"
+      "Base/Semantic": "enabled"
     },
     "$figmaStyleReferences": {},
     "$figmaCollectionId": "VariableCollectionId:1326:17328",
@@ -1134,9 +1127,7 @@
     "selectedTokenSets": {
       "Base/Core": "source",
       "Base/Semantic": "enabled",
-      "Brand/Brreg": "enabled",
-      "ETI/Default": "disabled",
-      "Brand/ETI": "disabled"
+      "Brand/Brreg": "enabled"
     },
     "$figmaVariableReferences": {
       "brand.alt1.50": "1d6262836eac8b0db5fc4a2bd02318f54fb25915",
@@ -1380,9 +1371,7 @@
     "name": "1440",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Viewport/@1440": "enabled",
-      "ETI/Default": "disabled",
-      "Brand/ETI": "disabled"
+      "Viewport/@1440": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1944:528040",
     "$figmaModeId": "1944:1",
@@ -1396,9 +1385,7 @@
     "name": "768",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Viewport/@768": "enabled",
-      "ETI/Default": "disabled",
-      "Brand/ETI": "disabled"
+      "Viewport/@768": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1944:528040",
     "$figmaModeId": "1944:2",
@@ -1412,9 +1399,7 @@
     "name": "320",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Viewport/@320": "enabled",
-      "ETI/Default": "disabled",
-      "Brand/ETI": "disabled"
+      "Viewport/@320": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:1944:528040",
     "$figmaModeId": "1944:3",
