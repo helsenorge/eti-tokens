@@ -806,12 +806,12 @@ export const color = [
     path: ['semantic', 'surface', 'action', 'second', 'no_fill-active'],
   },
   {
-    value: '#e6eff8',
+    value: '#D0FCEC',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.100}',
+      value: '{brand.alt2secondarycolor.300}',
       type: 'color',
     },
     name: '--fds-semantic-surface-action-subtle',
@@ -1611,12 +1611,12 @@ export const color = [
     path: ['semantic', 'border', 'action', 'default'],
   },
   {
-    value: '#0062ba',
+    value: '#752EE4',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.700}',
+      value: '{brand.alt1-primarycolor.500}',
       type: 'color',
     },
     name: '--fds-semantic-border-action-hover',
