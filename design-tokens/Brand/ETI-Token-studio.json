@@ -142,12 +142,12 @@
   "semantic": {
     "surface": {
       "first": {
-        "light": {
-          "value": "{brand.alt1-primarycolor.200}",
-          "type": "color"
-        },
         "light-hover": {
           "value": "{brand.alt1-primarycolor.300}",
+          "type": "color"
+        },
+        "light": {
+          "value": "{brand.alt1-primarycolor.200}",
           "type": "color"
         },
         "light-active": {
@@ -358,12 +358,12 @@
             "value": "{brand.alt3greyscale.300}",
             "type": "color"
           },
-          "subtle-hover": {
-            "value": "{semantic.surface.action.second.default}",
-            "type": "color"
-          },
           "default": {
             "value": "{semantic.border.second.active}",
+            "type": "color"
+          },
+          "subtle-hover": {
+            "value": "{semantic.surface.action.second.default}",
             "type": "color"
           },
           "hover": {

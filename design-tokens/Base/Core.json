@@ -547,5 +547,9 @@
       "value": "60",
       "type": "fontSizes"
     }
+  },
+  "logo_spacing": {
+    "value": "{spacing.22}",
+    "type": "spacing"
   }
 }
