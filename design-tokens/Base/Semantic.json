@@ -51,7 +51,7 @@
           "type": "color"
         },
         "default": {
-          "value": "{colors.blue.700}",
+          "value": "{brand.alt1-primarycolor.700}",
           "type": "color"
         },
         "hover": {
@@ -200,11 +200,11 @@
           "type": "color"
         },
         "default": {
-          "value": "{brand.alt2secondarycolor.600}",
+          "value": "{colors.blue.700}",
           "type": "color"
         },
         "hover": {
-          "value": "{brand.alt2secondarycolor.700}",
+          "value": "{colors.blue.700}",
           "type": "color"
         },
         "active": {
