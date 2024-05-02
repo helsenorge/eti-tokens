@@ -200,7 +200,7 @@
           "type": "color"
         },
         "default": {
-          "value": "{colors.blue.700}",
+          "value": "{brand.alt2secondarycolor.600}",
           "type": "color"
         },
         "hover": {
