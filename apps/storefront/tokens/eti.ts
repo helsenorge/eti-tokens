@@ -1042,12 +1042,12 @@ export const color = [
     path: ['semantic', 'surface', 'success', 'subtle-hover'],
   },
   {
-    value: '#118849',
+    value: '#03b598',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.green.700}',
+      value: '{brand.alt2secondarycolor.700}',
       type: 'color',
     },
     name: '--fds-semantic-surface-success-default',
@@ -1055,12 +1055,12 @@ export const color = [
     path: ['semantic', 'surface', 'success', 'default'],
   },
   {
-    value: '#0c6536',
+    value: '#009E8A',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.green.800}',
+      value: '{brand.alt2secondarycolor.800}',
       type: 'color',
     },
     name: '--fds-semantic-surface-success-hover',
@@ -1068,12 +1068,12 @@ export const color = [
     path: ['semantic', 'surface', 'success', 'hover'],
   },
   {
-    value: '#084826',
+    value: '#007B74',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.green.900}',
+      value: '{brand.alt2secondarycolor.900}',
       type: 'color',
     },
     name: '--fds-semantic-surface-success-active',
@@ -1572,12 +1572,12 @@ export const color = [
     path: ['semantic', 'border', 'action', 'second', 'active'],
   },
   {
-    value: '#b3d0ea',
+    value: '#CEC5FF',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.200}',
+      value: '{brand.alt1-primarycolor.200}',
       type: 'color',
     },
     name: '--fds-semantic-border-action-subtle',
@@ -1585,12 +1585,12 @@ export const color = [
     path: ['semantic', 'border', 'action', 'subtle'],
   },
   {
-    value: '#66a1d6',
+    value: '#AB92FF',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.400}',
+      value: '{brand.alt1-primarycolor.300}',
       type: 'color',
     },
     name: '--fds-semantic-border-action-subtle-hover',
@@ -1598,12 +1598,12 @@ export const color = [
     path: ['semantic', 'border', 'action', 'subtle-hover'],
   },
   {
-    value: '#0062ba',
+    value: '#8952FB',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.700}',
+      value: '{brand.alt1-primarycolor.400}',
       type: 'color',
     },
     name: '--fds-semantic-border-action-default',
@@ -1624,12 +1624,12 @@ export const color = [
     path: ['semantic', 'border', 'action', 'hover'],
   },
   {
-    value: '#00315d',
+    value: '#5F0CB9',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.900}',
+      value: '{brand.alt1-primarycolor.600}',
       type: 'color',
     },
     name: '--fds-semantic-border-action-active',
@@ -1637,12 +1637,12 @@ export const color = [
     path: ['semantic', 'border', 'action', 'active'],
   },
   {
-    value: '#00315d',
+    value: '#3E005E',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.900}',
+      value: '{brand.alt1-primarycolor.800}',
       type: 'color',
     },
     name: '--fds-semantic-border-action-dark',
@@ -1650,12 +1650,12 @@ export const color = [
     path: ['semantic', 'border', 'action', 'dark'],
   },
   {
-    value: '#0062ba',
+    value: '#30003E',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.700}',
+      value: '{brand.alt1-primarycolor.900}',
       type: 'color',
     },
     name: '--fds-semantic-border-action-dark-hover',
@@ -2939,26 +2939,6 @@ export const typography = [
     path: ['typography', 'heading', 'small'],
   },
   {
-    value: "500 1.3125rem/1.3 'Inter'",
-    type: 'typography',
-    description: 'H5',
-    filePath: '../../design-tokens/Base/Semantic.json',
-    isSource: false,
-    original: {
-      value: {
-        fontFamily: '{fontFamilies.inter}',
-        fontWeight: '{fontWeights.medium}',
-        lineHeight: '{lineHeights.300}',
-        fontSize: '{font-size.f2}',
-      },
-      type: 'typography',
-      description: 'H5',
-    },
-    name: '--fds-typography-heading-xsmall',
-    attributes: {},
-    path: ['typography', 'heading', 'xsmall'],
-  },
-  {
     value: "500 1.125rem/1.3 'Inter'",
     type: 'typography',
     description: 'H6',
@@ -2977,6 +2957,26 @@ export const typography = [
     name: '--fds-typography-heading-xxsmall',
     attributes: {},
     path: ['typography', 'heading', 'xxsmall'],
+  },
+  {
+    value: "500 1.3125rem/1.3 'Inter'",
+    type: 'typography',
+    description: 'H5',
+    filePath: '../../design-tokens/Base/Semantic.json',
+    isSource: false,
+    original: {
+      value: {
+        fontFamily: '{fontFamilies.inter}',
+        fontWeight: '{fontWeights.medium}',
+        lineHeight: '{lineHeights.300}',
+        fontSize: '{font-size.f2}',
+      },
+      type: 'typography',
+      description: 'H5',
+    },
+    name: '--fds-typography-heading-xsmall',
+    attributes: {},
+    path: ['typography', 'heading', 'xsmall'],
   },
   {
     value: "400 1.875rem/1.7 'Inter'",
