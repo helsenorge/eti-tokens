@@ -90,15 +90,15 @@
           "type": "color"
         },
         "default": {
-          "value": "{colors.green.700}",
+          "value": "{brand.alt2secondarycolor.700}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.green.800}",
+          "value": "{brand.alt2secondarycolor.800}",
           "type": "color"
         },
         "active": {
-          "value": "{colors.green.900}",
+          "value": "{brand.alt2secondarycolor.900}",
           "type": "color"
         },
         "no_fill": {
@@ -192,15 +192,15 @@
       },
       "action": {
         "subtle": {
-          "value": "{colors.blue.200}",
+          "value": "{brand.alt1-primarycolor.200}",
           "type": "color"
         },
         "subtle-hover": {
-          "value": "{colors.blue.400}",
+          "value": "{brand.alt1-primarycolor.300}",
           "type": "color"
         },
         "default": {
-          "value": "{colors.blue.700}",
+          "value": "{brand.alt1-primarycolor.400}",
           "type": "color"
         },
         "hover": {
@@ -208,15 +208,15 @@
           "type": "color"
         },
         "active": {
-          "value": "{colors.blue.900}",
+          "value": "{brand.alt1-primarycolor.600}",
           "type": "color"
         },
         "dark": {
-          "value": "{colors.blue.900}",
+          "value": "{brand.alt1-primarycolor.800}",
           "type": "color"
         },
         "dark-hover": {
-          "value": "{colors.blue.700}",
+          "value": "{brand.alt1-primarycolor.900}",
           "type": "color"
         }
       },
@@ -461,16 +461,6 @@
         "type": "typography",
         "description": "H4"
       },
-      "xsmall": {
-        "value": {
-          "fontFamily": "{fontFamilies.inter}",
-          "fontWeight": "{fontWeights.medium}",
-          "lineHeight": "{lineHeights.300}",
-          "fontSize": "{font-size.f2}"
-        },
-        "type": "typography",
-        "description": "H5"
-      },
       "xxsmall": {
         "value": {
           "fontFamily": "{fontFamilies.inter}",
@@ -480,6 +470,16 @@
         },
         "type": "typography",
         "description": "H6"
+      },
+      "xsmall": {
+        "value": {
+          "fontFamily": "{fontFamilies.inter}",
+          "fontWeight": "{fontWeights.medium}",
+          "lineHeight": "{lineHeights.300}",
+          "fontSize": "{font-size.f2}"
+        },
+        "type": "typography",
+        "description": "H5"
       }
     },
     "ingress": {
