@@ -1832,12 +1832,12 @@ export const color = [
     path: ['semantic', 'border', 'danger', 'active'],
   },
   {
-    value: '#ffda06',
+    value: '#D0FCEC',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.yellow.500}',
+      value: '{brand.alt2secondarycolor.300}',
       type: 'color',
     },
     name: '--fds-semantic-border-focus-outline',
@@ -2027,12 +2027,12 @@ export const color = [
     path: ['semantic', 'text', 'action', 'second', 'on_action'],
   },
   {
-    value: '#0062ba',
+    value: '#5F0CB9',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.700}',
+      value: '{brand.alt1-primarycolor.600}',
       type: 'color',
     },
     name: '--fds-semantic-text-action-default',
@@ -2040,12 +2040,12 @@ export const color = [
     path: ['semantic', 'text', 'action', 'default'],
   },
   {
-    value: '#004e95',
+    value: '#4F008F',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.800}',
+      value: '{brand.alt1-primarycolor.700}',
       type: 'color',
     },
     name: '--fds-semantic-text-action-hover',
@@ -2053,12 +2053,12 @@ export const color = [
     path: ['semantic', 'text', 'action', 'hover'],
   },
   {
-    value: '#00315d',
+    value: '#3E005E',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.blue.900}',
+      value: '{brand.alt1-primarycolor.800}',
       type: 'color',
     },
     name: '--fds-semantic-text-action-active',
