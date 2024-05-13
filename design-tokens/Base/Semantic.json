@@ -278,7 +278,7 @@
       },
       "focus": {
         "outline": {
-          "value": "{colors.yellow.500}",
+          "value": "{brand.alt2secondarycolor.300}",
           "type": "color"
         },
         "boxshadow": {
@@ -350,15 +350,15 @@
       },
       "action": {
         "default": {
-          "value": "{colors.blue.700}",
+          "value": "{brand.alt1-primarycolor.600}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.blue.800}",
+          "value": "{brand.alt1-primarycolor.700}",
           "type": "color"
         },
         "active": {
-          "value": "{colors.blue.900}",
+          "value": "{brand.alt1-primarycolor.800}",
           "type": "color"
         },
         "on_action": {
