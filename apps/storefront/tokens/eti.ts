@@ -1302,12 +1302,12 @@ export const color = [
     path: ['semantic', 'surface', 'info', 'subtle-hover'],
   },
   {
-    value: '#ffda06',
+    value: '#8952FB',
     type: 'color',
     filePath: '../../design-tokens/Base/Semantic.json',
     isSource: false,
     original: {
-      value: '{colors.yellow.500}',
+      value: '{brand.alt1-primarycolor.400}',
       type: 'color',
     },
     name: '--fds-semantic-surface-focus-default',
