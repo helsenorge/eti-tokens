@@ -178,7 +178,7 @@
       },
       "focus": {
         "default": {
-          "value": "{colors.yellow.500}",
+          "value": "{brand.alt1-primarycolor.400}",
           "type": "color"
         }
       }
