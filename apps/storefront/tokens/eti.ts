@@ -3307,19 +3307,6 @@ export const borderRadius = [
     path: ['border_radius', 'medium'],
   },
   {
-    value: '8px',
-    type: 'borderRadius',
-    filePath: '../../design-tokens/Base/Semantic.json',
-    isSource: false,
-    original: {
-      value: '8px',
-      type: 'borderRadius',
-    },
-    name: '--fds-border_radius-large',
-    attributes: {},
-    path: ['border_radius', 'large'],
-  },
-  {
     value: '12px',
     type: 'borderRadius',
     filePath: '../../design-tokens/Base/Semantic.json',
@@ -3331,6 +3318,19 @@ export const borderRadius = [
     name: '--fds-border_radius-xlarge',
     attributes: {},
     path: ['border_radius', 'xlarge'],
+  },
+  {
+    value: '8px',
+    type: 'borderRadius',
+    filePath: '../../design-tokens/Base/Semantic.json',
+    isSource: false,
+    original: {
+      value: '8px',
+      type: 'borderRadius',
+    },
+    name: '--fds-border_radius-large',
+    attributes: {},
+    path: ['border_radius', 'large'],
   },
   {
     value: '16px',
