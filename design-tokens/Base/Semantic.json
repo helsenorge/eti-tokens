@@ -768,12 +768,12 @@
       "value": "4px",
       "type": "borderRadius"
     },
-    "large": {
-      "value": "8px",
-      "type": "borderRadius"
-    },
     "xlarge": {
       "value": "12px",
+      "type": "borderRadius"
+    },
+    "large": {
+      "value": "8px",
       "type": "borderRadius"
     },
     "xxlarge": {
