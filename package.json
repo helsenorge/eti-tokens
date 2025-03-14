@@ -1,0 +1,9 @@
+{
+  "name": "eti",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@digdir/designsystemet": "^1.0.2"
+    }
+}
