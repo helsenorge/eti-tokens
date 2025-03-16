@@ -2,68 +2,68 @@
   "color": {
     "support": {
       "background-default": {
-        "$type": "color",
-        "$value": "{color.teal.background-default}"
+        "value": "{color.teal.background-default}",
+        "type": "color"
       },
       "background-tinted": {
-        "$type": "color",
-        "$value": "{color.teal.background-tinted}"
+        "value": "{color.teal.background-tinted}",
+        "type": "color"
       },
       "surface-default": {
-        "$type": "color",
-        "$value": "{color.teal.surface-default}"
+        "value": "{color.teal.surface-default}",
+        "type": "color"
       },
       "surface-tinted": {
-        "$type": "color",
-        "$value": "{color.teal.surface-tinted}"
+        "value": "{color.teal.surface-tinted}",
+        "type": "color"
       },
       "surface-hover": {
-        "$type": "color",
-        "$value": "{color.teal.surface-hover}"
+        "value": "{color.teal.surface-hover}",
+        "type": "color"
       },
       "surface-active": {
-        "$type": "color",
-        "$value": "{color.teal.surface-active}"
+        "value": "{color.teal.surface-active}",
+        "type": "color"
       },
       "border-subtle": {
-        "$type": "color",
-        "$value": "{color.teal.border-subtle}"
+        "value": "{color.teal.border-subtle}",
+        "type": "color"
       },
       "border-default": {
-        "$type": "color",
-        "$value": "{color.teal.border-default}"
+        "value": "{color.teal.border-default}",
+        "type": "color"
       },
       "border-strong": {
-        "$type": "color",
-        "$value": "{color.teal.border-strong}"
+        "value": "{color.teal.border-strong}",
+        "type": "color"
       },
       "text-subtle": {
-        "$type": "color",
-        "$value": "{color.teal.text-subtle}"
+        "value": "{color.teal.text-subtle}",
+        "type": "color"
       },
       "text-default": {
-        "$type": "color",
-        "$value": "{color.teal.text-default}"
+        "value": "{color.teal.text-default}",
+        "type": "color"
       },
       "base-default": {
-        "$type": "color",
-        "$value": "{color.teal.base-default}"
+        "value": "{color.teal.base-default}",
+        "type": "color"
       },
       "base-hover": {
-        "$type": "color",
-        "$value": "{color.teal.base-hover}"
+        "value": "{color.teal.base-hover}",
+        "type": "color"
       },
       "base-active": {
-        "$type": "color",
-        "$value": "{color.teal.base-active}"
+        "value": "{color.teal.base-active}",
+        "type": "color"
       },
       "base-contrast-subtle": {
-        "$type": "color",
-        "$value": "{color.teal.base-contrast-subtle}"
+        "value": "{color.teal.base-contrast-subtle}",
+        "type": "color"
       },
       "base-contrast-default": {
-        "$type": "color",
-        "$value": "{color.teal.base-contrast-default}"
+        "value": "{color.teal.base-contrast-default}",
+        "type": "color"
       }
     }
   }

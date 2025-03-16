@@ -2,649 +2,649 @@
   "color": {
     "primary": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.1}"
+        "value": "{eti-tokens.primary.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.2}"
+        "value": "{eti-tokens.primary.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.3}"
+        "value": "{eti-tokens.primary.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.4}"
+        "value": "{eti-tokens.primary.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.5}"
+        "value": "{eti-tokens.primary.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.6}"
+        "value": "{eti-tokens.primary.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.7}"
+        "value": "{eti-tokens.primary.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.8}"
+        "value": "{eti-tokens.primary.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.9}"
+        "value": "{eti-tokens.primary.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.10}"
+        "value": "{eti-tokens.primary.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.11}"
+        "value": "{eti-tokens.primary.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.12}"
+        "value": "{eti-tokens.primary.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.13}"
+        "value": "{eti-tokens.primary.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.14}"
+        "value": "{eti-tokens.primary.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.15}"
+        "value": "{eti-tokens.primary.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.primary.16}"
+        "value": "{eti-tokens.primary.16}",
+        "type": "color"
       }
     },
     "secondary": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.1}"
+        "value": "{eti-tokens.secondary.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.2}"
+        "value": "{eti-tokens.secondary.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.3}"
+        "value": "{eti-tokens.secondary.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.4}"
+        "value": "{eti-tokens.secondary.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.5}"
+        "value": "{eti-tokens.secondary.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.6}"
+        "value": "{eti-tokens.secondary.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.7}"
+        "value": "{eti-tokens.secondary.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.8}"
+        "value": "{eti-tokens.secondary.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.9}"
+        "value": "{eti-tokens.secondary.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.10}"
+        "value": "{eti-tokens.secondary.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.11}"
+        "value": "{eti-tokens.secondary.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.12}"
+        "value": "{eti-tokens.secondary.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.13}"
+        "value": "{eti-tokens.secondary.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.14}"
+        "value": "{eti-tokens.secondary.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.15}"
+        "value": "{eti-tokens.secondary.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.secondary.16}"
+        "value": "{eti-tokens.secondary.16}",
+        "type": "color"
       }
     },
     "accent": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.1}"
+        "value": "{eti-tokens.accent.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.2}"
+        "value": "{eti-tokens.accent.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.3}"
+        "value": "{eti-tokens.accent.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.4}"
+        "value": "{eti-tokens.accent.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.5}"
+        "value": "{eti-tokens.accent.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.6}"
+        "value": "{eti-tokens.accent.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.7}"
+        "value": "{eti-tokens.accent.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.8}"
+        "value": "{eti-tokens.accent.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.9}"
+        "value": "{eti-tokens.accent.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.10}"
+        "value": "{eti-tokens.accent.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.11}"
+        "value": "{eti-tokens.accent.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.12}"
+        "value": "{eti-tokens.accent.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.13}"
+        "value": "{eti-tokens.accent.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.14}"
+        "value": "{eti-tokens.accent.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.15}"
+        "value": "{eti-tokens.accent.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.accent.16}"
+        "value": "{eti-tokens.accent.16}",
+        "type": "color"
       }
     },
     "neutral": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.1}"
+        "value": "{eti-tokens.neutral.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.2}"
+        "value": "{eti-tokens.neutral.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.3}"
+        "value": "{eti-tokens.neutral.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.4}"
+        "value": "{eti-tokens.neutral.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.5}"
+        "value": "{eti-tokens.neutral.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.6}"
+        "value": "{eti-tokens.neutral.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.7}"
+        "value": "{eti-tokens.neutral.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.8}"
+        "value": "{eti-tokens.neutral.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.9}"
+        "value": "{eti-tokens.neutral.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.10}"
+        "value": "{eti-tokens.neutral.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.11}"
+        "value": "{eti-tokens.neutral.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.12}"
+        "value": "{eti-tokens.neutral.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.13}"
+        "value": "{eti-tokens.neutral.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.14}"
+        "value": "{eti-tokens.neutral.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.15}"
+        "value": "{eti-tokens.neutral.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.neutral.16}"
+        "value": "{eti-tokens.neutral.16}",
+        "type": "color"
       }
     },
     "teal": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.1}"
+        "value": "{eti-tokens.teal.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.2}"
+        "value": "{eti-tokens.teal.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.3}"
+        "value": "{eti-tokens.teal.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.4}"
+        "value": "{eti-tokens.teal.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.5}"
+        "value": "{eti-tokens.teal.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.6}"
+        "value": "{eti-tokens.teal.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.7}"
+        "value": "{eti-tokens.teal.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.8}"
+        "value": "{eti-tokens.teal.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.9}"
+        "value": "{eti-tokens.teal.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.10}"
+        "value": "{eti-tokens.teal.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.11}"
+        "value": "{eti-tokens.teal.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.12}"
+        "value": "{eti-tokens.teal.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.13}"
+        "value": "{eti-tokens.teal.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.14}"
+        "value": "{eti-tokens.teal.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.15}"
+        "value": "{eti-tokens.teal.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.teal.16}"
+        "value": "{eti-tokens.teal.16}",
+        "type": "color"
       }
     },
     "peach": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.1}"
+        "value": "{eti-tokens.peach.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.2}"
+        "value": "{eti-tokens.peach.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.3}"
+        "value": "{eti-tokens.peach.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.4}"
+        "value": "{eti-tokens.peach.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.5}"
+        "value": "{eti-tokens.peach.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.6}"
+        "value": "{eti-tokens.peach.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.7}"
+        "value": "{eti-tokens.peach.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.8}"
+        "value": "{eti-tokens.peach.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.9}"
+        "value": "{eti-tokens.peach.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.10}"
+        "value": "{eti-tokens.peach.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.11}"
+        "value": "{eti-tokens.peach.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.12}"
+        "value": "{eti-tokens.peach.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.13}"
+        "value": "{eti-tokens.peach.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.14}"
+        "value": "{eti-tokens.peach.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.15}"
+        "value": "{eti-tokens.peach.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.peach.16}"
+        "value": "{eti-tokens.peach.16}",
+        "type": "color"
       }
     },
     "turqouise": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.1}"
+        "value": "{eti-tokens.turqouise.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.2}"
+        "value": "{eti-tokens.turqouise.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.3}"
+        "value": "{eti-tokens.turqouise.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.4}"
+        "value": "{eti-tokens.turqouise.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.5}"
+        "value": "{eti-tokens.turqouise.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.6}"
+        "value": "{eti-tokens.turqouise.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.7}"
+        "value": "{eti-tokens.turqouise.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.8}"
+        "value": "{eti-tokens.turqouise.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.9}"
+        "value": "{eti-tokens.turqouise.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.10}"
+        "value": "{eti-tokens.turqouise.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.11}"
+        "value": "{eti-tokens.turqouise.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.12}"
+        "value": "{eti-tokens.turqouise.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.13}"
+        "value": "{eti-tokens.turqouise.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.14}"
+        "value": "{eti-tokens.turqouise.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.15}"
+        "value": "{eti-tokens.turqouise.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.turqouise.16}"
+        "value": "{eti-tokens.turqouise.16}",
+        "type": "color"
       }
     },
     "pink": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.1}"
+        "value": "{eti-tokens.pink.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.2}"
+        "value": "{eti-tokens.pink.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.3}"
+        "value": "{eti-tokens.pink.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.4}"
+        "value": "{eti-tokens.pink.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.5}"
+        "value": "{eti-tokens.pink.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.6}"
+        "value": "{eti-tokens.pink.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.7}"
+        "value": "{eti-tokens.pink.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.8}"
+        "value": "{eti-tokens.pink.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.9}"
+        "value": "{eti-tokens.pink.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.10}"
+        "value": "{eti-tokens.pink.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.11}"
+        "value": "{eti-tokens.pink.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.12}"
+        "value": "{eti-tokens.pink.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.13}"
+        "value": "{eti-tokens.pink.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.14}"
+        "value": "{eti-tokens.pink.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.15}"
+        "value": "{eti-tokens.pink.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.pink.16}"
+        "value": "{eti-tokens.pink.16}",
+        "type": "color"
       }
     },
     "forrest": {
       "1": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.1}"
+        "value": "{eti-tokens.forrest.1}",
+        "type": "color"
       },
       "2": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.2}"
+        "value": "{eti-tokens.forrest.2}",
+        "type": "color"
       },
       "3": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.3}"
+        "value": "{eti-tokens.forrest.3}",
+        "type": "color"
       },
       "4": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.4}"
+        "value": "{eti-tokens.forrest.4}",
+        "type": "color"
       },
       "5": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.5}"
+        "value": "{eti-tokens.forrest.5}",
+        "type": "color"
       },
       "6": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.6}"
+        "value": "{eti-tokens.forrest.6}",
+        "type": "color"
       },
       "7": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.7}"
+        "value": "{eti-tokens.forrest.7}",
+        "type": "color"
       },
       "8": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.8}"
+        "value": "{eti-tokens.forrest.8}",
+        "type": "color"
       },
       "9": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.9}"
+        "value": "{eti-tokens.forrest.9}",
+        "type": "color"
       },
       "10": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.10}"
+        "value": "{eti-tokens.forrest.10}",
+        "type": "color"
       },
       "11": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.11}"
+        "value": "{eti-tokens.forrest.11}",
+        "type": "color"
       },
       "12": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.12}"
+        "value": "{eti-tokens.forrest.12}",
+        "type": "color"
       },
       "13": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.13}"
+        "value": "{eti-tokens.forrest.13}",
+        "type": "color"
       },
       "14": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.14}"
+        "value": "{eti-tokens.forrest.14}",
+        "type": "color"
       },
       "15": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.15}"
+        "value": "{eti-tokens.forrest.15}",
+        "type": "color"
       },
       "16": {
-        "$type": "color",
-        "$value": "{eti-tokens.forrest.16}"
+        "value": "{eti-tokens.forrest.16}",
+        "type": "color"
       }
     }
   },
   "font-family": {
-    "$type": "fontFamilies",
-    "$value": "{eti-tokens.font-family}"
+    "value": "{eti-tokens.font-family}",
+    "type": "fontFamilies"
   },
   "font-weight": {
     "medium": {
-      "$type": "fontWeights",
-      "$value": "{eti-tokens.font-weight.medium}"
+      "value": "{eti-tokens.font-weight.medium}",
+      "type": "fontWeights"
     },
     "semibold": {
-      "$type": "fontWeights",
-      "$value": "{eti-tokens.font-weight.semibold}"
+      "value": "{eti-tokens.font-weight.semibold}",
+      "type": "fontWeights"
     },
     "regular": {
-      "$type": "fontWeights",
-      "$value": "{eti-tokens.font-weight.regular}"
+      "value": "{eti-tokens.font-weight.regular}",
+      "type": "fontWeights"
     }
   },
   "border-radius": {
     "1": {
-      "$type": "dimension",
-      "$value": "min({border-radius.base}*0.5,{border-radius.scale})"
+      "value": "min({border-radius.base}*0.5,{border-radius.scale})",
+      "type": "dimension"
     },
     "2": {
-      "$type": "dimension",
-      "$value": "min({border-radius.base},{border-radius.scale}*2)"
+      "value": "min({border-radius.base},{border-radius.scale}*2)",
+      "type": "dimension"
     },
     "3": {
-      "$type": "dimension",
-      "$value": "min({border-radius.base}*2,{border-radius.scale}*5)"
+      "value": "min({border-radius.base}*2,{border-radius.scale}*5)",
+      "type": "dimension"
     },
     "4": {
-      "$type": "dimension",
-      "$value": "min({border-radius.base}*3,{border-radius.scale}*7)"
+      "value": "min({border-radius.base}*3,{border-radius.scale}*7)",
+      "type": "dimension"
     },
     "5": {
-      "$type": "dimension",
-      "$value": "{border-radius.base}"
+      "value": "{border-radius.base}",
+      "type": "dimension"
     },
     "6": {
-      "$type": "dimension",
-      "$value": "9999"
+      "value": "9999",
+      "type": "dimension"
     },
     "base": {
-      "$type": "dimension",
-      "$value": "4"
+      "value": "4",
+      "type": "dimension"
     },
     "scale": {
-      "$type": "dimension",
-      "$value": "4"
+      "value": "4",
+      "type": "dimension"
     }
   }
 }
