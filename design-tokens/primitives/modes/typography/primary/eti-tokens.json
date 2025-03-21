@@ -1,21 +1,21 @@
 {
   "eti-tokens": {
     "font-family": {
-      "value": "Dm Sans",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Inter"
     },
     "font-weight": {
       "medium": {
-        "value": "Medium",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "Medium"
       },
       "semibold": {
-        "value": "SemiBold",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "SemiBold"
       },
       "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
+        "$type": "fontWeights",
+        "$value": "Regular"
       }
     }
   }

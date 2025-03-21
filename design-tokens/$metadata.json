@@ -24,25 +24,6 @@
     "semantic/modes/support-color/turqouise",
     "semantic/modes/support-color/pink",
     "semantic/modes/support-color/forrest",
-    "semantic/style",
-    "Alias/default",
-    "Base/Core",
-    "Base/Fluid",
-    "Base/Semantic",
-    "Brand/Altinn",
-    "Brand/Brreg",
-    "Brand/ETI",
-    "Brand/Tilsynet",
-    "ETI/Default",
-    "Figma/components",
-    "Mapped/Dark",
-    "Mapped/light",
-    "Viewport/@1200",
-    "Viewport/@1440",
-    "Viewport/@320",
-    "Viewport/@375",
-    "Viewport/@576",
-    "Viewport/@768",
-    "Viewport/@992"
+    "semantic/style"
   ]
 }

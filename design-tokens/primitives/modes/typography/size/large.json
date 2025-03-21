@@ -1,96 +1,96 @@
 {
   "line-height": {
     "sm": {
-      "value": "130%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "130%"
     },
     "md": {
-      "value": "150%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "150%"
     },
     "lg": {
-      "value": "170%",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "170%"
     }
   },
   "font-size": {
     "1": {
-      "value": "13",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "13"
     },
     "2": {
-      "value": "16",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "16"
     },
     "3": {
-      "value": "18",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "18"
     },
     "4": {
-      "value": "21",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "21"
     },
     "5": {
-      "value": "24",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "24"
     },
     "6": {
-      "value": "30",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "30"
     },
     "7": {
-      "value": "36",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "36"
     },
     "8": {
-      "value": "48",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "48"
     },
     "9": {
-      "value": "60",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "60"
     },
     "10": {
-      "value": "72",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "72"
     }
   },
   "letter-spacing": {
     "1": {
-      "value": "-1%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "-1%"
     },
     "2": {
-      "value": "-0.5%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "-0.5%"
     },
     "3": {
-      "value": "-0.25%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "-0.25%"
     },
     "4": {
-      "value": "-0.15%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "-0.15%"
     },
     "5": {
-      "value": "0%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0%"
     },
     "6": {
-      "value": "0.15%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0.15%"
     },
     "7": {
-      "value": "0.25%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0.25%"
     },
     "8": {
-      "value": "0.5%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0.5%"
     },
     "9": {
-      "value": "1.5%",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "1.5%"
     }
   }
 }
