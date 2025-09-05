@@ -1,0 +1,29 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/modes/size/small",
+    "primitives/modes/size/medium",
+    "primitives/modes/size/large",
+    "primitives/modes/size/global",
+    "primitives/modes/typography/size/small",
+    "primitives/modes/typography/size/medium",
+    "primitives/modes/typography/size/large",
+    "primitives/modes/typography/primary/svarveien",
+    "primitives/modes/typography/secondary/svarveien",
+    "primitives/modes/color-scheme/dark/global",
+    "primitives/modes/color-scheme/dark/svarveien",
+    "primitives/modes/color-scheme/light/global",
+    "primitives/modes/color-scheme/light/svarveien",
+    "themes/svarveien",
+    "semantic/color",
+    "semantic/modes/main-color/primary",
+    "semantic/modes/main-color/secondary",
+    "semantic/modes/main-color/accent",
+    "semantic/modes/support-color/teal",
+    "semantic/modes/support-color/peach",
+    "semantic/modes/support-color/turqouise",
+    "semantic/modes/support-color/pink",
+    "semantic/modes/support-color/forrest",
+    "semantic/style"
+  ]
+}

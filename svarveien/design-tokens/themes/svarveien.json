@@ -1,0 +1,650 @@
+{
+  "color": {
+    "primary": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.primary.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.primary.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.primary.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.primary.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.primary.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.primary.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.primary.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.primary.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.primary.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.primary.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.primary.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.primary.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.primary.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.primary.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.primary.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.primary.16}"
+      }
+    },
+    "secondary": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.secondary.16}"
+      }
+    },
+    "accent": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.accent.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.accent.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.accent.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.accent.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.accent.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.accent.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.accent.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.accent.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.accent.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.accent.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.accent.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.accent.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.accent.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.accent.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.accent.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.accent.16}"
+      }
+    },
+    "neutral": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.neutral.16}"
+      }
+    },
+    "teal": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.teal.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.teal.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.teal.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.teal.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.teal.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.teal.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.teal.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.teal.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.teal.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.teal.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.teal.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.teal.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.teal.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.teal.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.teal.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.teal.16}"
+      }
+    },
+    "peach": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.peach.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.peach.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.peach.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.peach.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.peach.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.peach.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.peach.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.peach.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.peach.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.peach.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.peach.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.peach.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.peach.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.peach.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.peach.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.peach.16}"
+      }
+    },
+    "turqouise": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.turqouise.16}"
+      }
+    },
+    "pink": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.pink.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.pink.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.pink.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.pink.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.pink.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.pink.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.pink.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.pink.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.pink.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.pink.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.pink.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.pink.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.pink.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.pink.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.pink.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.pink.16}"
+      }
+    },
+    "forrest": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.forrest.16}"
+      }
+    }
+  },
+  "font-family": {
+    "$type": "fontFamilies",
+    "$value": "{svarveien.font-family}"
+  },
+  "font-weight": {
+    "medium": {
+      "$type": "fontWeights",
+      "$value": "{svarveien.font-weight.medium}"
+    },
+    "semibold": {
+      "$type": "fontWeights",
+      "$value": "{svarveien.font-weight.semibold}"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "{svarveien.font-weight.regular}"
+    }
+  },
+  "border-radius": {
+    "1": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*0.5,{border-radius.scale})"
+    },
+    "2": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base},{border-radius.scale}*2)"
+    },
+    "3": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*2,{border-radius.scale}*5)"
+    },
+    "4": {
+      "$type": "dimension",
+      "$value": "min({border-radius.base}*3,{border-radius.scale}*7)"
+    },
+    "5": {
+      "$type": "dimension",
+      "$value": "{border-radius.base}"
+    },
+    "6": {
+      "$type": "dimension",
+      "$value": "9999"
+    },
+    "base": {
+      "$type": "dimension",
+      "$value": "9999"
+    },
+    "scale": {
+      "$type": "dimension",
+      "$value": "4"
+    }
+  }
+}
