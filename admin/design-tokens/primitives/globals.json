@@ -2,7 +2,7 @@
   "border-width": {
     "1": {
       "$type": "borderWidth",
-      "$value": "1px"
+      "$value": "{border-width.3}"
     },
     "3": {
       "$type": "borderWidth",
