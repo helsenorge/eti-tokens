@@ -6,7 +6,7 @@
     },
     "3": {
       "$type": "borderWidth",
-      "$value": "3px"
+      "$value": "2pxpx"
     }
   },
   "shadow": {
