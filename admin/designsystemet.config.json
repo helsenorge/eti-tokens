@@ -1,0 +1,28 @@
+{
+  "outDir": "design-tokens",
+  "themes": {
+    "admin": {
+      "colors": {
+        "main": {
+          "accent": "#00ccd3"
+        },
+        "support": {
+          "brand1": "#007853",
+          "brand2": "#5f2e8b",
+          "brand3": "#a25100"
+        },
+        "neutral": "#034B59"
+      },
+      "borderRadius": 9999,
+      "typography": {
+        "fontFamily": "Inter"
+      },
+      "overrides": {
+        "linkVisited": {
+         "light": "#00686C",
+          "dark": "#f1f8f8"
+        }
+      }
+    }
+  }
+}

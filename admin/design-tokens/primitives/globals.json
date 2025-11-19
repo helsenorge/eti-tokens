@@ -2,11 +2,11 @@
   "border-width": {
     "1": {
       "$type": "borderWidth",
-      "$value": "{border-width.3}"
+      "$value": "1px"
     },
     "3": {
       "$type": "borderWidth",
-      "$value": "2px"
+      "$value": "3px"
     }
   },
   "shadow": {
