@@ -593,6 +593,286 @@
         "$type": "color",
         "$value": "{svarveien.forrest.16}"
       }
+    },
+    "info": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.info.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.info.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.info.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.info.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.info.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.info.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.info.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.info.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.info.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.info.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.info.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.info.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.info.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.info.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.info.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.info.16}"
+      }
+    },
+    "success": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.success.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.success.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.success.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.success.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.success.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.success.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.success.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.success.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.success.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.success.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.success.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.success.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.success.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.success.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.success.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.success.16}"
+      }
+    },
+    "warning": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.warning.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.warning.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.warning.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.warning.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.warning.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.warning.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.warning.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.warning.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.warning.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.warning.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.warning.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.warning.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.warning.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.warning.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.warning.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.warning.16}"
+      }
+    },
+    "danger": {
+      "1": {
+        "$type": "color",
+        "$value": "{svarveien.danger.1}"
+      },
+      "2": {
+        "$type": "color",
+        "$value": "{svarveien.danger.2}"
+      },
+      "3": {
+        "$type": "color",
+        "$value": "{svarveien.danger.3}"
+      },
+      "4": {
+        "$type": "color",
+        "$value": "{svarveien.danger.4}"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "{svarveien.danger.5}"
+      },
+      "6": {
+        "$type": "color",
+        "$value": "{svarveien.danger.6}"
+      },
+      "7": {
+        "$type": "color",
+        "$value": "{svarveien.danger.7}"
+      },
+      "8": {
+        "$type": "color",
+        "$value": "{svarveien.danger.8}"
+      },
+      "9": {
+        "$type": "color",
+        "$value": "{svarveien.danger.9}"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "{svarveien.danger.10}"
+      },
+      "11": {
+        "$type": "color",
+        "$value": "{svarveien.danger.11}"
+      },
+      "12": {
+        "$type": "color",
+        "$value": "{svarveien.danger.12}"
+      },
+      "13": {
+        "$type": "color",
+        "$value": "{svarveien.danger.13}"
+      },
+      "14": {
+        "$type": "color",
+        "$value": "{svarveien.danger.14}"
+      },
+      "15": {
+        "$type": "color",
+        "$value": "{svarveien.danger.15}"
+      },
+      "16": {
+        "$type": "color",
+        "$value": "{svarveien.danger.16}"
+      }
+    },
+    "link": {
+      "visited": {
+        "$type": "color",
+        "$value": "{svarveien.link.visited}"
+      }
+    },
+    "focus": {
+      "inner-color": {
+        "$type": "color",
+        "$value": "{svarveien.focus.inner}"
+      },
+      "outer-color": {
+        "$type": "color",
+        "$value": "{svarveien.focus.outer}"
+      }
     }
   },
   "font-family": {

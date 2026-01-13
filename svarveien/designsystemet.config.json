@@ -1,0 +1,32 @@
+{
+  "outDir": "design-tokens",
+  "themes": {
+    "svarveien": {
+      "colors": {
+        "main": {
+          "primary": "#231F20",
+          "secondary":"#A9EADD",
+          "accent":"#FFC436"
+        },
+        "support": {
+          "teal": "#A3BCB5",
+          "peach": "#FF976E",
+          "turqouise": "#03D8B2",
+          "pink": "#EF7BB5",
+          "forrest": "#0F876A"
+        },
+        "neutral": "#4F5E5B"
+      },
+      "borderRadius": 9999,
+      "typography": {
+        "fontFamily": "Inter"
+      },
+      "overrides": {
+        "linkVisited": {
+         "light": "#000",
+          "dark": "#fff"
+        }
+      }
+    }
+  }
+}
