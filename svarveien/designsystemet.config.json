@@ -19,12 +19,15 @@
       },
       "borderRadius": 9999,
       "typography": {
-        "fontFamily": "Inter"
+        "fontFamily": "dm-sans, sans-serif"
       },
       "overrides": {
         "linkVisited": {
          "light": "#000",
           "dark": "#fff"
+        },
+        "severity": {
+          "warning": "#ffe6ab"
         }
       }
     }
