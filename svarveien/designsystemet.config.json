@@ -25,9 +25,6 @@
         "linkVisited": {
          "light": "#000",
           "dark": "#fff"
-        },
-        "severity": {
-          "warning": "#ffe6ab"
         }
       }
     }
